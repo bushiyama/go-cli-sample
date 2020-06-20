@@ -1,4 +1,4 @@
-# haramascoi
+# go-cli-sample
 
 CLIとしてGo書いたことなかったので、書いてみた。  
 せっかくなので`urfave/cli`を使ってみた。  
