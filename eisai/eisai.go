@@ -8,7 +8,7 @@ import (
 	cli "github.com/urfave/cli/v2"
 )
 
-const version = "1.0.0"
+const version = "1.1.0"
 
 var (
 	flag1 bool
